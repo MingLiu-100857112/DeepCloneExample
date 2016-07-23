@@ -1,0 +1,11 @@
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\DeepClone.exe.config
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\DeepClone.exe
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\DeepClone.pdb
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\AutoMapper.dll
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\AutoMapper.xml
+D:\MyWork\TestDemo\DeepClone\DeepClone\obj\Debug\DeepClone.csprojResolveAssemblyReference.cache
+D:\MyWork\TestDemo\DeepClone\DeepClone\obj\Debug\DeepClone.exe
+D:\MyWork\TestDemo\DeepClone\DeepClone\obj\Debug\DeepClone.pdb
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\CloneExtensions.dll
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\ServiceStack.Text.dll
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\ServiceStack.Text.xml
