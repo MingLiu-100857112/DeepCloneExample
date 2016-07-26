@@ -1,0 +1,10 @@
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Release\DeepClone.exe.config
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Release\DeepClone.exe
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Release\DeepClone.pdb
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Release\AutoMapper.dll
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Release\CloneExtensions.dll
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Release\ServiceStack.Text.dll
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Release\AutoMapper.xml
+D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Release\ServiceStack.Text.xml
+D:\MyWork\TestDemo\DeepClone\DeepClone\obj\Release\DeepClone.exe
+D:\MyWork\TestDemo\DeepClone\DeepClone\obj\Release\DeepClone.pdb

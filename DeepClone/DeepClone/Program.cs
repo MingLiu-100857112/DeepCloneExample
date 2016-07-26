@@ -53,6 +53,7 @@ namespace DeepClone
 
         static void Main(string[] args)
         {
+            new System.Collections.Generic.Dictionary<string, string>();
             var s = new Student()
             {
                 Name = "66",
