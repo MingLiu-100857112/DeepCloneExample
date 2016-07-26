@@ -9,3 +9,14 @@ D:\MyWork\TestDemo\DeepClone\DeepClone\obj\Debug\DeepClone.pdb
 D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\CloneExtensions.dll
 D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\ServiceStack.Text.dll
 D:\MyWork\TestDemo\DeepClone\DeepClone\bin\Debug\ServiceStack.Text.xml
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\bin\Debug\DeepClone.exe.config
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\obj\Debug\DeepClone.exe
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\obj\Debug\DeepClone.pdb
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\bin\Debug\DeepClone.exe
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\bin\Debug\DeepClone.pdb
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\bin\Debug\AutoMapper.dll
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\bin\Debug\CloneExtensions.dll
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\bin\Debug\ServiceStack.Text.dll
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\bin\Debug\AutoMapper.xml
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\bin\Debug\ServiceStack.Text.xml
+E:\code\csharp\DeepCloneExample\DeepClone\DeepClone\obj\Debug\DeepClone.csprojResolveAssemblyReference.cache

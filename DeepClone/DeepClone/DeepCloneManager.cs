@@ -13,10 +13,13 @@ namespace VIC.CloneExtension
                 new NoSupportCloneFuncCreator(),
                 new NullableCloneFuncCreator(),
                 new ImmutableCloneFuncCreator(),
-                new ArrayCloneFuncCreator()
+                new ArrayCloneFuncCreator(),
+                new TupleCloneFuncCreator(),
+                new KeyValuePairCloneFuncCreator(),
+                new ComplexCloneFuncCreator()
             };
 
-        internal static Func<T, T> CreateCloneFunc<T>()
+        public static Func<T, T> CreateCloneFunc<T>()
         {
             var type = typeof(T);
             var creator = Creators.FirstOrDefault(i => i.CanClone(type));

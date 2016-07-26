@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CloneExtensions;
 using ServiceStack.Text;
+using VIC.CloneExtension;
 
 namespace DeepClone
 {
@@ -62,7 +63,7 @@ namespace DeepClone
                 Classes2 = new Classes[1] { new Classes() { ID = 77 } }
                 //, Classes4 = new List<Classes>() { new Classes() { ID = 664 } }
             };
-            var func = DeepCloneHelper.CreateCloneFunc<Student>();
+            var func = s.DeepClone();
             Mapper.Initialize(cfg => cfg.CreateMap<Student, Student>());
             var dest = Mapper.Map<Student, Student>(s);
             dest = JsonHelper.Cast<Student, Student>(s);
@@ -71,7 +72,7 @@ namespace DeepClone
             var totalCount = 1000000;
             for (int i = 0; i < totalCount; i++)
             {
-                var s3 = func(s);
+                var s3 = s.DeepClone();
             }
             a.Stop();
             var aa = a.ElapsedMilliseconds;

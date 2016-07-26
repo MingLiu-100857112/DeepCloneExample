@@ -57,9 +57,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DeepCloneCreators\ArrayCloneFuncCreator.cs" />
+    <Compile Include="DeepCloneCreators\ComplexCloneFuncCreator.cs" />
     <Compile Include="DeepCloneCreators\ImmutableCloneFuncCreator.cs" />
+    <Compile Include="DeepCloneCreators\KeyValuePairCloneFuncCreator.cs" />
     <Compile Include="DeepCloneCreators\NoSupportCloneFuncCreator.cs" />
     <Compile Include="DeepCloneCreators\NullableCloneFuncCreator.cs" />
+    <Compile Include="DeepCloneCreators\TupleCloneFuncCreator.cs" />
     <Compile Include="DeepCloneExtension.cs" />
     <Compile Include="DeepCloneHelper.cs" />
     <Compile Include="DeepCloneManager.cs" />

@@ -14,7 +14,8 @@ namespace VIC.CloneExtension
         internal static readonly Type IEnumeratorType = typeof(IEnumerator);
         internal static readonly Type DelegateType = typeof(Delegate);
         internal static readonly Type NullableGenericType = typeof(Nullable<>);
-
+        internal static readonly Type KeyValuePairGenericType = typeof(KeyValuePair<,>);
+        
         internal static readonly HashSet<Type> ImmutableTypes = new HashSet<Type>() {
             typeof(string), typeof(DateTime), typeof(TimeSpan)
         };
